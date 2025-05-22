@@ -3,7 +3,7 @@ from phonenumbers import geocoder, carrier
 from opencage.geocoder import OpenCageGeocode
 import folium
 
-key = "3842f3482a594deca6727863535aad92"  # Replace with your valid API key
+key = "Your Key"  # Replace with your valid API key
 
 number = input("Please enter your phone number (with or without +91): ")
 
